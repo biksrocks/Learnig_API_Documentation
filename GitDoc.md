@@ -4,3 +4,4 @@ Note that the toothbrush is totally safe to use for children, adults, or pets.
 
 Test this doc. Add this line.
 
+Turn on the toothbrush using the green button. Place in your mouth.
